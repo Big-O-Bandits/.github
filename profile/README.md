@@ -1,4 +1,4 @@
-# DSA Solving Organization 🚀
+# Big-O-Bandits 🚀
 
 Welcome to our **DSA Solving Organization**! This is a collaborative space where we, as a group of friends, solve Data Structures and Algorithms problems together. Our goal is to improve our problem-solving skills, learn new concepts, and prepare for coding interviews and competitions.
 
